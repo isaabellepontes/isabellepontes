@@ -1,0 +1,3 @@
+Esse é meu primeiro Readme, assim como minha primeira pagina pessoal, estou muito feliz embora eu espere melhorar e muito a minha parte criativa e desenvolver mais as minhas habilidades em css e html.
+ Eu criei uma pagina simples e funcional, é o melhor que eu consegui com as habilidades que tenho hoje, ali se encontra em todas as paginas a minha cor favorita que é verde claro, e nas paginas esta um pouco de quem eu sou o que gosto de fazer e como me encontrar.
+nEmbora simples, me senti totalmente desafiada nesse projeto, em alguns momentos quis desistir e em outros(na sua maioria) dei o melhor de mim e tudo que sei até o momento. Aprendi muito com esse projeto!
